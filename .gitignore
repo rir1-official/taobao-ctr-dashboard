@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.zip
+*.rar
+*.7z
+data/raw/*
+!data/raw/user_ad_data.csv
